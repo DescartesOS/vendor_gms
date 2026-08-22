@@ -23,18 +23,26 @@ prebuilt_etc {
 }
 
 prebuilt_etc {
-    name: "privapp-permissions-com.google.android.mosey",
+    name: "com.google.android.apps.pixel.launcherconnector",
     system_ext_specific: true,
     sub_dir: "permissions",
-    src: "privapp-permissions-com.google.android.mosey.xml",
+    src: "com.google.android.apps.pixel.launcherconnector.xml",
     filename_from_src: true,
 }
 
 prebuilt_etc {
-    name: "privapp-permissions-com.google.android.pixelsystemservice",
+    name: "privapp-permissions-com.google.android.apps.pixel.tabby",
     system_ext_specific: true,
     sub_dir: "permissions",
-    src: "privapp-permissions-com.google.android.pixelsystemservice.xml",
+    src: "privapp-permissions-com.google.android.apps.pixel.tabby.xml",
+    filename_from_src: true,
+}
+
+prebuilt_etc {
+    name: "privapp-permissions-com.google.android.mosey",
+    system_ext_specific: true,
+    sub_dir: "permissions",
+    src: "privapp-permissions-com.google.android.mosey.xml",
     filename_from_src: true,
 }
 
