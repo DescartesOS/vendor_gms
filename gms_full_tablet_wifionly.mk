@@ -42,7 +42,6 @@ PRODUCT_PACKAGES += \
     Chrome \
     Chrome-Stub \
     DevicePolicyPrebuilt-v10572820 \
-    GoogleContacts \
     GoogleTTS \
     LatinIMEGooglePrebuilt \
     LocationHistoryPrebuilt \
@@ -90,8 +89,6 @@ PRODUCT_PACKAGES += \
     OdadPrebuilt \
     PartnerSetupPrebuilt \
     Phonesky \
-    PrebuiltBugle \
-    PrebuiltDeskClockGoogle_76060331 \
     PrebuiltPixelCoreServices \
     RelationshipsPrebuilt-301 \
     ScribePrebuilt_v8.7.880674799 \
@@ -141,7 +138,6 @@ PRODUCT_PACKAGES += \
     GoogleServicesFramework \
     MagicPortraitWallpapers \
     MoseyApp \
-    NexusLauncherRelease \
     SetupWizardPixelPrebuilt_cd1a \
     StorageManagerGoogle \
     TurboAdapter \

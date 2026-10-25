@@ -35,7 +35,6 @@ PRODUCT_PACKAGES += \
     CalendarGooglePrebuilt \
     Chrome \
     Chrome-Stub \
-    GoogleContacts \
     GoogleTTS \
     LatinIMEGooglePrebuilt \
     LocationHistoryPrebuilt \
@@ -77,8 +76,6 @@ PRODUCT_PACKAGES += \
     OdadPrebuilt \
     PartnerSetupPrebuilt \
     Phonesky \
-    PrebuiltBugle \
-    PrebuiltDeskClockGoogle_76060331 \
     PrebuiltPixelCoreServices \
     SettingsIntelligenceGooglePrebuilt \
     SetupWizardPrebuilt_cd1a \
@@ -120,7 +117,6 @@ PRODUCT_PACKAGES += \
     GoogleFeedback \
     GoogleServicesFramework \
     MoseyApp \
-    NexusLauncherRelease \
     SetupWizardPixelPrebuilt_cd1a \
     WallpaperPickerGoogleRelease
 
