@@ -1,3 +1,5 @@
+PRODUCT_PACKAGE_OVERLAYS += vendor/gms/overlay
+
 #
 # Copyright (C) 2018-2019 The Google Pixel3ROM Project
 # Copyright (C) 2024 The hentaiOS Project and its Proprietors
@@ -47,7 +49,7 @@ PRODUCT_PACKAGES += \
     LocationHistoryPrebuilt \
     MarkupGoogle_v2 \
     NgaResources \
-    Photos \
+    Gallery2 \
     PixelThemesStub2026 \
     PrebuiltGoogleAdservicesTvp \
     PrebuiltGoogleTelemetryTvp \
