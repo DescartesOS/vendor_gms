@@ -2,4 +2,5 @@
 <resources>
     <string name="config_settingsintelligence_package_name" translatable="false">com.google.android.settings.intelligence</string>
     <string name="config_wallpaper_picker_package" translatable="false">com.google.android.apps.wallpaper</string>
+    <string name="config_wallpaper_picker_class" translatable="false">com.android.customization.picker.CustomizationPickerActivity</string>
 </resources>

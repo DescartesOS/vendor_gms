@@ -1,4 +1,5 @@
 PRODUCT_PACKAGE_OVERLAYS += vendor/gms/overlay
+PRODUCT_PACKAGES += GmsLauncherWallpaperOverlay
 
 #
 # Copyright (C) 2018-2019 The Google Pixel3ROM Project
