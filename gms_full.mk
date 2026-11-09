@@ -72,6 +72,12 @@ PRODUCT_PACKAGES += \
     PixelWallpapers2026
 endif
 
+TARGET_INCLUDE_PHOTOS ?= true
+ifeq ($(TARGET_INCLUDE_PHOTOS),true)
+PRODUCT_PACKAGES += \
+    Photos
+endif
+
 ifneq ($(filter Google google,$(PRODUCT_MANUFACTURER)),)
 PRODUCT_PACKAGES += \
     Tycho

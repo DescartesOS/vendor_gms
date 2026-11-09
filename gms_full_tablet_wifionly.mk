@@ -71,6 +71,12 @@ PRODUCT_PACKAGES += \
     PixelWallpapers2026
 endif
 
+TARGET_INCLUDE_PHOTOS ?= true
+ifeq ($(TARGET_INCLUDE_PHOTOS),true)
+PRODUCT_PACKAGES += \
+    Photos
+endif
+
 TARGET_INCLUDE_STOCK_ARCORE ?= true
 ifeq ($(TARGET_INCLUDE_STOCK_ARCORE),true)
 PRODUCT_PACKAGES += \
