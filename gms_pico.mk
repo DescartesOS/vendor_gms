@@ -38,7 +38,6 @@ PRODUCT_PACKAGES += \
     Chrome \
     Chrome-Stub \
     GoogleTTS \
-    LatinIMEGooglePrebuilt \
     LocationHistoryPrebuilt \
     MarkupGoogle_v2 \
     PixelThemesStub2026 \

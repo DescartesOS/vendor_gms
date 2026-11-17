@@ -46,7 +46,6 @@ PRODUCT_PACKAGES += \
     Chrome-Stub \
     DevicePolicyPrebuilt-v10572820 \
     GoogleTTS \
-    LatinIMEGooglePrebuilt \
     LocationHistoryPrebuilt \
     MarkupGoogle_v2 \
     NgaResources \
